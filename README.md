@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-@uchman005-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/uchman005)](https://github.com/uchman005)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obiefuna-marcel)](https://www.linkedin.com/in/obiefuna-marcel/)
-[![Twitter Badge](https://img.shields.io/badge/-@YOUR_HANDLE-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/MarcelObiefuna)](https://x.com/MarcelObiefuna)
+[![Twitter Badge](https://img.shields.io/badge/-@MarcelObiefuna-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/MarcelObiefuna)](https://x.com/MarcelObiefuna)
 
 ---
 
